@@ -1,0 +1,26 @@
+body{
+    background-color: #eee3dd;
+}
+h1, h2, span, p{
+    color: #d89279;
+}
+button{
+    background-color:#cdd3c2 ;
+    color:white;
+}
+#Score{
+    font-size: 30px;
+    float: left;
+    margin-left: 30px;
+}
+#Timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 30px;
+}
+#TB_Drawn{
+    background-color: #d89279;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
